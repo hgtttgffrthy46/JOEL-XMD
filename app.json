@@ -9,7 +9,7 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "JOEL-XMD~FFRHXTLY#RezpS6Qm0zdpJj9ZbpYUZ8dTsxNXBNlGReCqUjhaZYI",
       "required": true,
       "value": ""
     },
